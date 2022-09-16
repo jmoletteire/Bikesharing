@@ -9,7 +9,7 @@ Analyzing New York City bike-sharing data from August 2019, and evaluating the p
 <br></br>
 
 ## Summary
-<center><iframe src="https://public.tableau.com/app/profile/jack.moletteire/viz/NYC_Bikesharing_Challenge/NYCCitiBikeAnalysis?publish=yes" width="1004" height="1269" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/app/profile/jack.moletteire/viz/NYC_Bikesharing_Challenge/NYCCitiBikeAnalysis?publish=yes" width="1016" height="1014" frameborder="0"></iframe></center>
 
 <br></br>
 
